@@ -1,0 +1,109 @@
+.image-banner{
+  position: relative;
+  margin: 3px; 
+  text-align: center;
+
+}
+.text-on-banner{
+  position: absolute;
+  top: 5px;
+  left: 100px;
+}
+
+.section{
+  position:relative;
+  background-color:rgb(78, 74, 74);
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+  width: 1024px;
+  box-sizing: border-box;
+  margin: 5px auto;
+}
+
+.logo{
+
+position:absolute;
+top: 300px;
+right: 150px;
+
+}
+
+nav a{
+  text-decoration:none;
+  color:inherit;
+  font-size:14px;
+  } 
+  nav li{
+  display:inline-block;
+  position: relative;
+  width:5%;
+  padding:5px 10px;
+  background-color:rgb(78, 74, 74);
+  border:1px solid rgb(78, 74, 74);
+  text-align:center;
+  color:#fff;
+  left: 800px;
+  top: -340px;
+  }
+ 
+nav li:visited{
+  background-color: rgb(78, 74, 74)}
+
+
+#current-link {
+  background-color: rgb(102, 25, 8);
+  text-decoration: none;
+}
+
+.body-image{position: relative;
+  text-align: left;
+  font-size: 32px;
+  left: 120px;
+  margin:0;
+  top:50px;}
+
+
+.web-text {
+  position: relative;
+  text-align: left;
+  font-size: 32px;
+  left: 420px;
+  margin:0;
+  top:-60px;
+}
+
+h3 {
+  position: relative;
+  text-align: left;
+  left: 450px;
+  margin:0;
+ top:-140px;
+  
+}
+
+.web-paragraph-about-us {
+  position: relative;
+  text-align: left;
+  font-size: 20px;
+  left: 450px;
+  top:-140px;
+  
+}
+
+.web-paragraph-home {
+  position: relative;
+  text-align: left;
+  font-size: 22px;
+  left: 520px;
+  top:-160px;
+  
+}
+.tab-event{
+  position:relative;
+  text-indent: 1cm;
+  padding:0px;
+  bottom:20px;
+  font-size: 22px;
+}
